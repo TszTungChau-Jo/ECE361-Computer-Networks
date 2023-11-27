@@ -1,0 +1,19 @@
+4 big files to implement
+
+1. client -> client interactions (4th)
+    - initiate communications
+
+2. server -> server interactions (2nd)
+    - prepare for connections
+    - handle conference session like a router
+    - acts as a database
+
+3. message -> mapping different message types (1st)
+    - send message: how to package them
+    - read message: how to understand diffent segments of packet
+    - mapping: once understood the message how to map them to the predefined types 
+
+4. session -> interaction helper functions (3rd)
+    - handle clent information
+    - handle session information
+    - provides client & session interaction helper functions
