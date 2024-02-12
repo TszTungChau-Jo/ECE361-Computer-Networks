@@ -1,0 +1,4 @@
+/login nathan1 123 127.0.0.1 12345
+/createsession test
+/joinsession test
+hello12345678765434567
